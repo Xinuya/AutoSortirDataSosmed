@@ -14,3 +14,6 @@ Fitur dari tool ini adalah =
   (Jika ingin mengubah variabel/setting, silakan buka script dan ubah di bagian nomor 64 dan ganti dengan variabel pilihan Anda)
 - Tool ini juga memiliki fitur menghapus data duplikat secara otomatis dalam 1 file terpilih
   (tool ini mengetahui data duplikat dengan melihat variabel ke-1 dan ke-2, jika ada yang cocok akan dihapus dan yang asli 1 akan ditinggalkan)
+
+# autosortir.py (tidak supord untuk termux)
+# autosortir2.py (Supord Termux)
